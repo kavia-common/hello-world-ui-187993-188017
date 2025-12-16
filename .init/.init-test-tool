@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/hello-world-ui-187993-188017/hello_world_frontend"
+}
